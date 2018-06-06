@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wsdc-managerp:war">
+    <output-path>$PROJECT_DIR$/../wsdc-managerp/target</output-path>
+    <root id="archive" name="wsdc-managerp.war">
+      <element id="artifact" artifact-name="wsdc-managerp:war exploded" />
+    </root>
+  </artifact>
+</component>
